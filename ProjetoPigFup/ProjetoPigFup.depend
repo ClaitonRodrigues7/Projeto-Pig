@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1701176534 source:c:\users\clayr\onedrive\documentos\projetopigfup\main.c
+	"lib.h"
+
+1701178915 c:\users\clayr\onedrive\documentos\projetopigfup\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701178353 source:c:\users\clayr\onedrive\documentos\projetopigfup\modulo.c
+	"lib.h"
+
+1701799685 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup\main.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702041421 c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702055102 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup\modulo.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1702055774 source:c:\users\gisele\downloads\projetopigfup (2)\projetopigfup\main.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702055774 c:\users\gisele\downloads\projetopigfup (2)\projetopigfup\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702055774 source:c:\users\gisele\downloads\projetopigfup (2)\projetopigfup\modulo.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1702238318 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup3\projetopigfup\main.c
+	"lib.h"
+
+1702238223 c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup3\projetopigfup\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1702248689 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup3\projetopigfup\modulo.c
+	"lib.h"
+
+1702238318 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup- versao final\projetopigfup\main.c
+	"lib.h"
+
+1702238223 c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup- versao final\projetopigfup\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1702248689 source:c:\users\clayr\onedrive\햞ea de trabalho\projetopigfup- versao final\projetopigfup\modulo.c
+	"lib.h"
+
